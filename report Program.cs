@@ -10,7 +10,6 @@ namespace ConsoleApplication19
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\n\t\t \n\n\t\t\t under the supervision ENG : DINA SAIF\n \n\t\t\t\t hisham ebrahim sheta");
             List<int> List1 = new List<int> { 1, 3, 5 };
             List<int> List2 = new List<int> { 2, 4, 6, 8 };
             List<int> List3 = new List<int>();
